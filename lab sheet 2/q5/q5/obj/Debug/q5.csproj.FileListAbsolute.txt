@@ -1,0 +1,7 @@
+D:\visual studio c#\lab sheet 2\q5\q5\bin\Debug\q5.exe.config
+D:\visual studio c#\lab sheet 2\q5\q5\bin\Debug\q5.exe
+D:\visual studio c#\lab sheet 2\q5\q5\bin\Debug\q5.pdb
+D:\visual studio c#\lab sheet 2\q5\q5\obj\Debug\q5.csproj.AssemblyReference.cache
+D:\visual studio c#\lab sheet 2\q5\q5\obj\Debug\q5.csproj.CoreCompileInputs.cache
+D:\visual studio c#\lab sheet 2\q5\q5\obj\Debug\q5.exe
+D:\visual studio c#\lab sheet 2\q5\q5\obj\Debug\q5.pdb
