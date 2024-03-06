@@ -1,0 +1,2 @@
+D:\visual studio c#\lab sheet 1\q1\q1\obj\Debug\q1.csproj.AssemblyReference.cache
+D:\visual studio c#\lab sheet 1\q1\q1\obj\Debug\q1.csproj.CoreCompileInputs.cache

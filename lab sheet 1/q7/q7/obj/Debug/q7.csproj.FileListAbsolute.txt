@@ -1,0 +1,7 @@
+D:\visual studio c#\lab sheet 1\q7\q7\bin\Debug\q7.exe.config
+D:\visual studio c#\lab sheet 1\q7\q7\bin\Debug\q7.exe
+D:\visual studio c#\lab sheet 1\q7\q7\bin\Debug\q7.pdb
+D:\visual studio c#\lab sheet 1\q7\q7\obj\Debug\q7.csproj.AssemblyReference.cache
+D:\visual studio c#\lab sheet 1\q7\q7\obj\Debug\q7.csproj.CoreCompileInputs.cache
+D:\visual studio c#\lab sheet 1\q7\q7\obj\Debug\q7.exe
+D:\visual studio c#\lab sheet 1\q7\q7\obj\Debug\q7.pdb
