@@ -1,0 +1,7 @@
+D:\visual studio c#\lab sheet 3\q 2\q 2\bin\Debug\q 2.exe.config
+D:\visual studio c#\lab sheet 3\q 2\q 2\bin\Debug\q 2.exe
+D:\visual studio c#\lab sheet 3\q 2\q 2\bin\Debug\q 2.pdb
+D:\visual studio c#\lab sheet 3\q 2\q 2\obj\Debug\q 2.csproj.AssemblyReference.cache
+D:\visual studio c#\lab sheet 3\q 2\q 2\obj\Debug\q 2.csproj.CoreCompileInputs.cache
+D:\visual studio c#\lab sheet 3\q 2\q 2\obj\Debug\q 2.exe
+D:\visual studio c#\lab sheet 3\q 2\q 2\obj\Debug\q 2.pdb
